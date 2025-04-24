@@ -1,4 +1,4 @@
-Number Guesser Game
+*Number Guesser Game*
 Overview
 The Number Guesser Game is a fun, interactive GUI-based game built using Python and the Tkinter library. Players attempt to guess a randomly generated number between 1 and 100, receiving real-time feedback on whether their guess is too high, too low, or correct. The game tracks the number of attempts and maintains the best score (lowest number of attempts). It features a visually appealing gradient background, hover effects on buttons, and keyboard support for an enhanced user experience.
 Features
