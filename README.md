@@ -13,8 +13,6 @@ Visual Enhancements: Gradient background, button hover effects, and a shadow fra
 Keyboard Support: Press Enter to submit a guess and Escape to exit fullscreen mode.
 Responsive Design: Fullscreen mode with centered widgets for a consistent experience.
 
-Screenshots
-(Add a screenshot of the game interface here, e.g., screenshots/game_interface.png)
 Installation
 To run the Number Guesser Game on your local machine, follow these steps:
 Prerequisites
@@ -24,7 +22,7 @@ Tkinter (usually included with Python; if not, install it via your package manag
 
 Steps
 
-Clone the Repository (if hosted on GitHub):git clone https://github.com/your-username/number-guesser-game.git
+Clone the Repository (if hosted on GitHub):git clone https://github.com/v45cfghh/Number_Guesser_Game/tree/main
 cd number-guesser-game
 
 
